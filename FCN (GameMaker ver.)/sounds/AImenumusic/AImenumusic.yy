@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"AImenumusic",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":135.43533,
+  "name":"AImenumusic",
+  "parent":{
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"AImenumusic.wav",
+  "type":1,
+  "volume":1.0,
+}
