@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":20.48,
+  "duration":0.0,
   "name":"snd_fw1",
   "parent":{
     "name":"Rooms",
