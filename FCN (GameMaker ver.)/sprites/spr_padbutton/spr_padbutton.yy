@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_padbutton",
   "bboxMode":0,
-  "bbox_bottom":31,
+  "bbox_bottom":62,
   "bbox_left":0,
-  "bbox_right":149,
+  "bbox_right":299,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"15891167-21ca-42f3-99e3-a57e7ea0a482","name":"15891167-21ca-42f3-99e3-a57e7ea0a482","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a183a1b7-a4fc-4890-b48d-9ec4aaef7c45","name":"a183a1b7-a4fc-4890-b48d-9ec4aaef7c45","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":32,
+  "height":63,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a2cda256-96c6-4230-9625-c44f9f8ac76c","blendMode":0,"displayName":"default","isLocked":false,"name":"a2cda256-96c6-4230-9625-c44f9f8ac76c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e62d97ee-3c0f-4f2a-8b55-e0149bf448e3","blendMode":0,"displayName":"default","isLocked":false,"name":"e62d97ee-3c0f-4f2a-8b55-e0149bf448e3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_padbutton",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"15891167-21ca-42f3-99e3-a57e7ea0a482","path":"sprites/spr_padbutton/spr_padbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6f8c7ba4-6e7f-43dc-b1a0-11ca53200eb4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a183a1b7-a4fc-4890-b48d-9ec4aaef7c45","path":"sprites/spr_padbutton/spr_padbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d9f6ea1a-a9f1-4280-a83c-af6233fe684c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":150,
+  "width":300,
 }

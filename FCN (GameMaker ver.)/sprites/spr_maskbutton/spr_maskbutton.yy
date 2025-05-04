@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_maskbutton",
   "bboxMode":0,
-  "bbox_bottom":54,
+  "bbox_bottom":312,
   "bbox_left":0,
-  "bbox_right":174,
+  "bbox_right":999,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"10aaa4f7-4b8e-42f2-b22d-4eb0c83d3251","name":"10aaa4f7-4b8e-42f2-b22d-4eb0c83d3251","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"bec05911-1a89-4524-8f4b-5672dd9f4db9","name":"bec05911-1a89-4524-8f4b-5672dd9f4db9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":55,
+  "height":313,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7d6dd6c7-224c-4e75-bf4e-f386fe340513","blendMode":0,"displayName":"default","isLocked":false,"name":"7d6dd6c7-224c-4e75-bf4e-f386fe340513","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"cbb7145c-f157-417e-a852-fb11956a1aa4","blendMode":0,"displayName":"default","isLocked":false,"name":"cbb7145c-f157-417e-a852-fb11956a1aa4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_maskbutton",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"10aaa4f7-4b8e-42f2-b22d-4eb0c83d3251","path":"sprites/spr_maskbutton/spr_maskbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b0eafcba-553e-4c79-aa35-821c6ce48fc8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bec05911-1a89-4524-8f4b-5672dd9f4db9","path":"sprites/spr_maskbutton/spr_maskbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4599ce3a-84ba-45b2-a2e7-71632302ecdf","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":175,
+  "width":1000,
 }
