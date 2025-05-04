@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"maps",
+    "path":"folders/Rooms/maps.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

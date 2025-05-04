@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"AI_btns",
+    "path":"folders/Rooms/AI_btns.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,8 +12,8 @@
   "duration":20.401632,
   "name":"snd_fwS",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"snd",
+    "path":"folders/Rooms/snd.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

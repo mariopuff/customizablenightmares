@@ -12,8 +12,8 @@
   "duration":135.43533,
   "name":"AImenumusic",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"music",
+    "path":"folders/Rooms/music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
