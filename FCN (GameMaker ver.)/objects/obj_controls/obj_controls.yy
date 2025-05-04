@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"btn_controls",
+  "%Name":"obj_controls",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"btn_controls",
+  "name":"obj_controls",
   "overriddenProperties":[],
   "parent":{
-    "name":"AI_btns",
-    "path":"folders/Rooms/AI_btns.yy",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_btn_controls",
-    "path":"sprites/spr_btn_controls/spr_btn_controls.yy",
+    "name":"spr_controls",
+    "path":"sprites/spr_controls/spr_controls.yy",
   },
   "spriteMaskId":null,
   "visible":true,
