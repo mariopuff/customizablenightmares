@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"charactericonspr",
-    "path":"folders/Rooms/charactericonspr.yy",
+    "path":"folders/Sprites/charactericonspr.yy",
   },
   "parentObjectId":null,
   "persistent":false,

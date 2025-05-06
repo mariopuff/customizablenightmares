@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"AI Selection Menu",
+    "path":"folders/Sprites/AI Selection Menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

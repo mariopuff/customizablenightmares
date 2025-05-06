@@ -13,7 +13,7 @@
   "name":"AImenumusic",
   "parent":{
     "name":"music",
-    "path":"folders/Rooms/music.yy",
+    "path":"folders/Sounds/music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

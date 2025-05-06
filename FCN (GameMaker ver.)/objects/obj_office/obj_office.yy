@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object22",
-  "eventList":[],
+  "%Name":"obj_office",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object22",
+  "name":"obj_office",
   "overriddenProperties":[],
   "parent":{
-    "name":"FCN (GameMaker ver.)",
-    "path":"FCN (GameMaker ver.).yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_officeSKIN1",
+    "path":"sprites/spr_officeSKIN1/spr_officeSKIN1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

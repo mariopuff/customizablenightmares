@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"AI_btns",
-    "path":"folders/Rooms/AI_btns.yy",
+    "path":"folders/Sprites/AI_btns.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

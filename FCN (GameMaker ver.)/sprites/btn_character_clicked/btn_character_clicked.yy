@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"mainmenubuttons",
+    "path":"folders/Sprites/mainmenubuttons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

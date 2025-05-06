@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"pre-mainmenu sprites",
+    "path":"folders/Sprites/pre-mainmenu sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

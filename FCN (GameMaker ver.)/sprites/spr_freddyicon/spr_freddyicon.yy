@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"charactericonspr",
-    "path":"folders/Rooms/charactericonspr.yy",
+    "path":"folders/Sprites/charactericonspr.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

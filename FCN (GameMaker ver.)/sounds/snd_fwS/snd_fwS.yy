@@ -13,7 +13,7 @@
   "name":"snd_fwS",
   "parent":{
     "name":"snd",
-    "path":"folders/Rooms/snd.yy",
+    "path":"folders/Sounds/snd.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

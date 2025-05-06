@@ -3,7 +3,7 @@
 /// @DnDHash : 22503059
 /// @DnDArgument : "spriteind" "Sprite13"
 /// @DnDSaveInfo : "spriteind" "Sprite13"
-sprite_index = Sprite13;
+sprite_index = spr_checkerboard1;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable

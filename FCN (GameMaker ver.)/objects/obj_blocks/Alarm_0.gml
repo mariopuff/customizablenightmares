@@ -11,13 +11,13 @@ blocksprite = sprite_index;
 /// @DnDComment : if renaming sprite, change this
 /// @DnDArgument : "var" "blocksprite"
 /// @DnDArgument : "value" "Sprite13"
-if(blocksprite == Sprite13){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+if(blocksprite == spr_checkerboard1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 1C8C6C93
 	/// @DnDParent : 240B840F
 	/// @DnDArgument : "spriteind" "Sprite13_1"
 	/// @DnDSaveInfo : "spriteind" "Sprite13_1"
-	sprite_index = Sprite13_1;
+	sprite_index = spr_checkerboard2;
 	image_index = 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
@@ -29,7 +29,7 @@ else{	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDParent : 4EB20362
 	/// @DnDArgument : "spriteind" "Sprite13"
 	/// @DnDSaveInfo : "spriteind" "Sprite13"
-	sprite_index = Sprite13;
+	sprite_index = spr_checkerboard1;
 	image_index = 0;}
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
