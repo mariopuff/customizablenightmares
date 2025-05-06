@@ -10,8 +10,8 @@
   "name":"obj_blocks",
   "overriddenProperties":[],
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite13",
-    "path":"sprites/Sprite13/Sprite13.yy",
+    "name":"spr_checkerboard1",
+    "path":"sprites/spr_checkerboard1/spr_checkerboard1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

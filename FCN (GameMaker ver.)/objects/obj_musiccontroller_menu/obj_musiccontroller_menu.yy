@@ -11,8 +11,8 @@
   "name":"obj_musiccontroller_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

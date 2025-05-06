@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"AI_btns",
-    "path":"folders/Rooms/AI_btns.yy",
+    "path":"folders/Sprites/AI_btns.yy",
   },
   "parentObjectId":null,
   "persistent":false,
