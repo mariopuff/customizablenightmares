@@ -19,6 +19,13 @@
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< HEAD
+=======
+    {"$GMFolder":"","%Name":"AI_btns","folderPath":"folders/Rooms/AI_btns.yy","name":"AI_btns","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"maps","folderPath":"folders/Rooms/maps.yy","name":"maps","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"music","folderPath":"folders/Rooms/music.yy","name":"music","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"snd","folderPath":"folders/Rooms/snd.yy","name":"snd","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> parent of e3387d7 (Merge branch 'main' of https://github.com/submini/customizablenightmares)
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Shaders","folderPath":"folders/Shaders.yy","name":"Shaders","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -55,7 +62,6 @@
     {"id":{"name":"btn_pagedown","path":"objects/btn_pagedown/btn_pagedown.yy",},},
     {"id":{"name":"btn_pageup","path":"objects/btn_pageup/btn_pageup.yy",},},
     {"id":{"name":"btn_showcharinfo","path":"objects/btn_showcharinfo/btn_showcharinfo.yy",},},
-    {"id":{"name":"obj_4unduckicon","path":"objects/obj_4unduckicon/obj_4unduckicon.yy",},},
     {"id":{"name":"obj_AImusiccontroller","path":"objects/obj_AImusiccontroller/obj_AImusiccontroller.yy",},},
     {"id":{"name":"obj_blocks","path":"objects/obj_blocks/obj_blocks.yy",},},
     {"id":{"name":"obj_button_character","path":"objects/obj_button_character/obj_button_character.yy",},},
@@ -64,10 +70,12 @@
     {"id":{"name":"obj_cameramovementoffice","path":"objects/obj_cameramovementoffice/obj_cameramovementoffice.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},},
-    {"id":{"name":"obj_freddyicon","path":"objects/obj_freddyicon/obj_freddyicon.yy",},},
     {"id":{"name":"obj_intrologo","path":"objects/obj_intrologo/obj_intrologo.yy",},},
     {"id":{"name":"obj_musiccontroller_menu","path":"objects/obj_musiccontroller_menu/obj_musiccontroller_menu.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"obj_office","path":"objects/obj_office/obj_office.yy",},},
+=======
+>>>>>>> parent of e3387d7 (Merge branch 'main' of https://github.com/submini/customizablenightmares)
     {"id":{"name":"rm_characterAI","path":"rooms/rm_characterAI/rm_characterAI.yy",},},
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
@@ -83,7 +91,6 @@
     {"id":{"name":"btn_skins_clicked","path":"sprites/btn_skins_clicked/btn_skins_clicked.yy",},},
     {"id":{"name":"btn_skins_hover","path":"sprites/btn_skins_hover/btn_skins_hover.yy",},},
     {"id":{"name":"btn_skins_normal","path":"sprites/btn_skins_normal/btn_skins_normal.yy",},},
-    {"id":{"name":"spr_4unduckicon","path":"sprites/spr_4unduckicon/spr_4unduckicon.yy",},},
     {"id":{"name":"spr_AIbuttongo_clicked","path":"sprites/spr_AIbuttongo_clicked/spr_AIbuttongo_clicked.yy",},},
     {"id":{"name":"spr_AIbuttongo_hover","path":"sprites/spr_AIbuttongo_hover/spr_AIbuttongo_hover.yy",},},
     {"id":{"name":"spr_AIbuttongo_normal","path":"sprites/spr_AIbuttongo_normal/spr_AIbuttongo_normal.yy",},},
@@ -106,7 +113,6 @@
     {"id":{"name":"spr_f2map","path":"sprites/spr_f2map/spr_f2map.yy",},},
     {"id":{"name":"spr_f3map","path":"sprites/spr_f3map/spr_f3map.yy",},},
     {"id":{"name":"spr_f4map","path":"sprites/spr_f4map/spr_f4map.yy",},},
-    {"id":{"name":"spr_freddyicon","path":"sprites/spr_freddyicon/spr_freddyicon.yy",},},
     {"id":{"name":"spr_intrologo","path":"sprites/spr_intrologo/spr_intrologo.yy",},},
     {"id":{"name":"spr_maskbutton","path":"sprites/spr_maskbutton/spr_maskbutton.yy",},},
     {"id":{"name":"spr_monitorbutton","path":"sprites/spr_monitorbutton/spr_monitorbutton.yy",},},
